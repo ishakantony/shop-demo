@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "shop-api-collection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
